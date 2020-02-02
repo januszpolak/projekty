@@ -25,3 +25,5 @@ print(exchange)
 output = open('file.txt','w')
 output.write(f'Kursy walut ze strony internetowej: http://www.kantorvabanque.pl/ z dnia {date.strftime("%d/%m/%Y")} z godziny {date.strftime("%H:%M")} {exchange}')
 output.close()
+
+input()
