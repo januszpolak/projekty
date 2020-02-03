@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_cd76adb425e94fdc96b29b3790f3cb10 {
+                #map_b3c4ea08053348dcbc743ae03a1f6eed {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -35,15 +35,15 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_cd76adb425e94fdc96b29b3790f3cb10" ></div>
+            <div class="folium-map" id="map_b3c4ea08053348dcbc743ae03a1f6eed" ></div>
         
 </body>
 <script>    
     
-            var map_cd76adb425e94fdc96b29b3790f3cb10 = L.map(
-                "map_cd76adb425e94fdc96b29b3790f3cb10",
+            var map_b3c4ea08053348dcbc743ae03a1f6eed = L.map(
+                "map_b3c4ea08053348dcbc743ae03a1f6eed",
                 {
-                    center: [50.049683, 19.944544],
+                    center: [50.08, 19.92],
                     crs: L.CRS.EPSG3857,
                     zoom: 13,
                     zoomControl: true,
@@ -55,9 +55,28 @@
 
         
     
-            var tile_layer_a891b53c9a7c49a0b050f76738d57fc0 = L.tileLayer(
+            var tile_layer_9be1af43f2ee40149b756b3d2ee0622e = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_cd76adb425e94fdc96b29b3790f3cb10);
+            ).addTo(map_b3c4ea08053348dcbc743ae03a1f6eed);
         
+    
+            var marker_b2c1722405664c5aaa67d97b27374e25 = L.marker(
+                [50.08, 19.92],
+                {}
+            ).addTo(map_b3c4ea08053348dcbc743ae03a1f6eed);
+        
+    
+        var popup_46c375db23444cce949a07e2326bfe9a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b4b0558c93649fdb39c53361519fd75 = $(`<div id="html_9b4b0558c93649fdb39c53361519fd75" style="width: 100.0%; height: 100.0%;">krakow</div>`)[0];
+            popup_46c375db23444cce949a07e2326bfe9a.setContent(html_9b4b0558c93649fdb39c53361519fd75);
+        
+
+        marker_b2c1722405664c5aaa67d97b27374e25.bindPopup(popup_46c375db23444cce949a07e2326bfe9a)
+        ;
+
+        
+    
 </script>

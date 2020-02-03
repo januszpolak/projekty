@@ -24,8 +24,8 @@ sunrise = data['sys']['sunrise']
 sunset = data['sys']['sunset']
 lon = data['coord']['lon']
 lat = data['coord']['lat']
-x = time.gmtime(sunrise)
-y = time.gmtime(sunset)
+x = time.localtime(sunrise)
+y = time.localtime(sunset)
 
 
 # f to format dzięki czemu można wstzykiwać zmienne do stringów
