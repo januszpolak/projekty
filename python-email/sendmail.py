@@ -2,7 +2,7 @@ import smtplib
 
 
 fromaddr = 'janojp@gmail.com'
-toaddr = 'janojp@gmail.com'
+toaddr = 'bigj@poczta.fm'
 password = input('Wprowadź hasło do swojego konta gmail ... ')
 message = 'email wyslany przy pomocy pythona'
 
