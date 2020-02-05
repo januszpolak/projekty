@@ -1,1 +1,348 @@
-Invalid port. Exiting...
+1580927693062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1jRK5A"
+1580927693920	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927694094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927694094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927694094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927694094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927697036	Marionette	INFO	Listening on port 34363
+1580927697077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580927711718	Marionette	INFO	Stopped listening on port 34363
+1580927719760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCxrv5x"
+1580927720545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927720720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927720720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927720721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927720721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927723675	Marionette	INFO	Listening on port 40779
+1580927723774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580927736575	Marionette	INFO	Stopped listening on port 40779
+1580927769924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoOJTnr"
+1580927771484	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927771925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927771926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927771926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927771926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927777643	Marionette	INFO	Listening on port 42903
+1580927777706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580927791133	Marionette	INFO	Stopped listening on port 42903
+1580928011046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW28F3p"
+1580928011996	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580928012176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580928012176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580928012177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580928012177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580928015299	Marionette	INFO	Listening on port 39915
+1580928015360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580928041938	Marionette	INFO	Stopped listening on port 39915
+1580928722557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileABmhLu"
+1580928723390	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580928723563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580928723563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580928723563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580928723564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580928726590	Marionette	INFO	Listening on port 43789
+1580928726680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580928740569	Marionette	INFO	Stopped listening on port 43789
+1580928758764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Wr5CM"
+1580928760373	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580928760816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580928760816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580928760817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580928760817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580928766485	Marionette	INFO	Listening on port 39385
+1580928766563	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580928778927	Marionette	INFO	Stopped listening on port 39385
+1580928825226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebJstg5"
+1580928826021	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580928826197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580928826197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580928826197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580928826198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580928829077	Marionette	INFO	Listening on port 41207
+1580928829153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580928844244	Marionette	INFO	Stopped listening on port 41207
+1580928924529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileosd28K"
+1580928925380	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580928925563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580928925564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580928925564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580928925564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580928928467	Marionette	INFO	Listening on port 35347
+1580928928543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580928999890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepqG8A1"
+1580929000743	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929000956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929000956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929000956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929000957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929004100	Marionette	INFO	Listening on port 37093
+1580929004204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580929021339	Marionette	INFO	Stopped listening on port 35347
+1580929025854	Marionette	INFO	Stopped listening on port 37093
+1580929150210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKlHPT1"
+1580929151133	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929151394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929151394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929151394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929151394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929154788	Marionette	INFO	Listening on port 34861
+1580929154829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580929174245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebi9Ytx"
+1580929175290	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929175469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929175469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929175469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929175469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929178765	Marionette	INFO	Listening on port 45701
+1580929180306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580929223264	Marionette	INFO	Stopped listening on port 45701
+1580929223396	Marionette	INFO	Stopped listening on port 34861
+1580929226378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUEMAsQ"
+1580929227173	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929227355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929227356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929227356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929227356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929231054	Marionette	INFO	Listening on port 36917
+1580929231095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: r.getAvailableCurrency(...) is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: r.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580929249480	Marionette	INFO	Stopped listening on port 36917
+1580929301109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0D46Lf"
+1580929301924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929302101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929302101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929302101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929302101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929304966	Marionette	INFO	Listening on port 44015
+1580929305019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580929324546	Marionette	INFO	Stopped listening on port 44015
+1580929474981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3kI20"
+1580929475926	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929476105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929476105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929476106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929476106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929479215	Marionette	INFO	Listening on port 43081
+1580929479296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580929483526	Marionette	INFO	Stopped listening on port 43081
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580929522572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVyDioW"
+1580929523456	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929523634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929523634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929523634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929523634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929526670	Marionette	INFO	Listening on port 41053
+1580929526695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580929530226	Marionette	INFO	Stopped listening on port 41053
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580929544926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI8XjZZ"
+1580929545813	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929545990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929545991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929545991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929545991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929548868	Marionette	INFO	Listening on port 45107
+1580929548941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: r.getAvailableCurrency(...) is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580929553658	Marionette	INFO	Stopped listening on port 45107
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1580929589108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVgj3VY"
+1580929589952	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929590127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929590127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929590128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929590128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929593053	Marionette	INFO	Listening on port 36873
+1580929593123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: t.tickerObj is undefined
+1580929596533	Marionette	INFO	Stopped listening on port 36873
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1580929630524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegGR8Ue"
+1580929631387	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929631568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929631568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929631568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929631568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929634775	Marionette	INFO	Listening on port 41089
+1580929634842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+1580929638227	Marionette	INFO	Stopped listening on port 41089
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580929728667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecdf16I"
+1580929729653	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580929729857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580929729857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580929729858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580929729858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580929733241	Marionette	INFO	Listening on port 38785
+1580929733291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+JavaScript error: https://bitbay.net/user/themes/bitbay/js-prod/exchange-bundle.js?g-51cd29b9, line 2: TypeError: this.restObj is undefined
+1580929737020	Marionette	INFO	Stopped listening on port 38785
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
