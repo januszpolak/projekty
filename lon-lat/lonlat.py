@@ -19,3 +19,4 @@ while True:
     restart = input('Wpisz tak, aby wczytać program ponownie ... ')
     if restart != 'tak':
         print('spadaj')
+        break

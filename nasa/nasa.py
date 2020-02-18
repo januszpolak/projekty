@@ -2,6 +2,7 @@ import requests
 import os
 import webbrowser
 from googletrans import Translator
+from gtts import gTTS 
 from urllib.request import urlretrieve
 
 
@@ -30,3 +31,12 @@ translator = Translator()
 translated_sentence = translator.translate(data['explanation'], src='en', dest='pl')
 
 print(translated_sentence.text)
+
+#play translated description in polish using googleTextToSpeech module
+
+language = 'pl'
+      
+myobj = gTTS(text=translated_sentence.text, lang=language, slow=False) 
+  
+myobj.save("output.mp3") 
+os.system("mpg321 output.mp3")
