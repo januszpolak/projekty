@@ -3,6 +3,7 @@ import random
 
 # print(string.printable)
 
+num = int(input('Z ilu znaków ma składać się hasło? : '))
 
 def generatePassword(num):
     password = ''
@@ -11,5 +12,5 @@ def generatePassword(num):
         password += string.printable[x]
     return password
 
+print('Twoje hasło to: ' + generatePassword(num))
 
-print(generatePassword(10))
