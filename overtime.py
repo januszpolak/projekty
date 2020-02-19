@@ -1,4 +1,4 @@
-hours = float(input('How many hours did you work? '))
+hours = float(input('How many hours did you do this week? '))
 rate = 8.21
 over = 1.5 * rate
 income = hours*rate
