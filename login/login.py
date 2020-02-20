@@ -50,4 +50,4 @@ btn.pack()
 label1 = Text(root, bg='white')
 label1.pack()
 
-
+root.mainloop()

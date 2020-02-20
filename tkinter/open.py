@@ -3,8 +3,7 @@
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog
-import vlc
-
+from mpyg321.mpyg321 import MPyg321Player
 
 okno = tk.Tk()
 okno.title('Otwieracz plików :))')
@@ -14,8 +13,8 @@ okno.geometry('600x200')
 def browse():
     global player
     file = filedialog.askopenfilename(initialdir = '/home/jpolak/Muzyka')
-    player = vlc.MediaPlayer(file)
-    player.play()
+    player = MPyg321Player()
+    player.play_song(file)
 
     global napis
     napis = Label(okno)
