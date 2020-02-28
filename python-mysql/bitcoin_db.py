@@ -12,12 +12,12 @@ mydb = mysql.connector.connect(
 
 url = requests.get('https://tokeneo.com/pl/kryptowaluty/bitcoin/')
 soup = BeautifulSoup(url.content, 'html.parser')
-price = soup.find_all('p')[1].text
-print(price)
+coin_price = soup.find_all('p')[1].text
+print(coin_price)
 
 mycursor = mydb.cursor()
-mycursor.execute("INSERT INTO prices(prices) values (18000)")
-mycursor.execute("SELECT * FROM prices")
+mycursor.execute("INSERT INTO actual_prices VALUES(null,'2020-02-28',32000)")
+mycursor.execute("SELECT * FROM actual_prices")
 
 
 myresult = mycursor.fetchall()

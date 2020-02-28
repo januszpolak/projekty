@@ -4,12 +4,12 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="root",
   passwd="password",
-  database="janusz"
+  database="helion"
 )
 
 mycursor = mydb.cursor()
 
-mycursor.execute("SELECT * FROM spotkanie")
+mycursor.execute("SELECT * FROM employee")
 
 
 myresult = mycursor.fetchall()

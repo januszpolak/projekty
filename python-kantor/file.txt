@@ -1,4 +1,4 @@
-Kursy walut ze strony internetowej: http://www.kantorvabanque.pl/ z dnia 01/02/2020 z godziny 11:06 
+Kursy walut ze strony internetowej: http://www.kantorvabanque.pl/ z dnia 28/02/2020 z godziny 09:04 
 
 
 Waluta
@@ -8,44 +8,44 @@ Sprzedaż
 
 
 USD
-3.86
-3.88
+3.915
+3.94
 
 
 
 EUR
-4.28
 4.3
+4.325
 
 
 
 GBP
-5.09
-5.12
+5.05
+5.08
 
 
 
 CAD
-2.91
 2.95
+2.99
 
 
 
 CHF
-4.01
-4.04
+4.05
+4.09
 
 
 
 AUD
-2.57
-2.61
+2.58
+2.63
 
 
 
 DKK
-0.571
-0.575
+0.574
+0.578
 
 
 
@@ -56,24 +56,24 @@ NOK
 
 
 SEK
-0.399
-0.403
+0.404
+0.408
 
 
 
 CZK
-0.167
-0.171
+0.169
+0.173
 
 
 
 HUF
-0.0125
-0.013
+0.0124
+0.0129
 
 
 
 HRK
-0.58
+0.57
 0.63
 

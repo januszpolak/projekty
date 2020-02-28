@@ -15,7 +15,7 @@ exchange = soup.find('tbody').get_text()
 
 root = Tk()
 root.geometry('600x600')
-root.title('Login Panel')
+root.title('Kantor VABANQUE')
 root.configure(background='#a33540')
 
 
