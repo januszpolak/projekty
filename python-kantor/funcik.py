@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -8,3 +11,6 @@ sell = soup.find_all('td')[11].get_text()
 print(f'Skup funta po: {buy} zł')
 print(f'Sprzedaż funta po: {sell} zł\n')
 print('--- Żródło http://www.kantorvabanque.pl --- ')
+
+
+input()
