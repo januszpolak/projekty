@@ -16,13 +16,13 @@ coin_price = soup.find_all('p')[1].text
 print(coin_price)
 
 mycursor = mydb.cursor()
-mycursor.execute("INSERT INTO actual_prices VALUES(null,'2020-02-28',32000)")
+mycursor.execute("INSERT INTO actual_prices VALUES(null,null,?)", (coin_price))
 mycursor.execute("SELECT * FROM actual_prices")
-
 
 myresult = mycursor.fetchall()
 
 for x in myresult:
   print(x)
-  
+
+mycursor.commit()  
 mydb.close()

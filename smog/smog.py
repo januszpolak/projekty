@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 options = Options()
@@ -27,3 +29,5 @@ print('PM2.5 to zanieczyszczenia powietrza o średnicy 2,5 mikrometra (jedna tys
 print('PM1 to zanieczyszczenia powietrza o średnicy 1 mikrometr (jedna tysięczna milimetra) lub mniej.\nNorma WHO: Dla PM1 nie jest zdefiniowana')
 
 browser.quit()
+
+input()
