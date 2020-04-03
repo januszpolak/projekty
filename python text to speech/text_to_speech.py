@@ -1,7 +1,8 @@
-def main():
+from gtts import gTTS
+import os
 
-    from gtts import gTTS 
-    import os
+
+def main():
 
     mytext = input('Wprowadź swój tekst, który będzie przekonwertowany na mowę:')
 

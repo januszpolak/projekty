@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 import random
@@ -15,5 +15,5 @@ while True:
     program_end = input('Wybrać kolejne imię? (Tak/Nie): ')
 
     if not (program_end == 'Tak' or program_end == 'tak'):
-        print(f'Wybraliście imię {name} zapraszam do kancelarii.')
+        print(f'Wybraliście imię {name}, zapraszam do kancelarii.')
         break

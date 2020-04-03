@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,7 +12,7 @@ browser = webdriver.Chrome(executable_path=r'./chromedriver', options=options)
 browser.get('https://airly.eu/map/pl/#50.04374,19.96659,i9576')
 
 
-place = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[5]/div/div[1]/div/div/div/div[1]/div[1]/div[2]/div[2]/div[1]').text
+place = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[5]/div/div[1]/div/div/div/div[2]/div[1]/div[2]/div[1]/div/div[3]/div[2]/strong').text
 pm10 = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[5]/div/div[1]/div/div/div/div[1]/div[1]/div[3]/div[1]').text
 pm25 = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[5]/div/div[1]/div/div/div/div[2]/div[1]/div[2]/div[2]/div/div[3]/div[2]/strong').text
 pm1 = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[5]/div/div[1]/div/div/div/div[2]/div[1]/div[2]/div[3]/div[1]/div[3]/div/strong').text

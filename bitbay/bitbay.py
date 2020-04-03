@@ -1,9 +1,15 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 import csv
 import datetime
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+options = Options()
+options.add_argument("--headless")
 
 
-browser = webdriver.Chrome(executable_path=r'./chromedriver')
+browser = webdriver.Chrome(executable_path=r'./chromedriver', options=options)
 browser.get('https://bitbay.net/pl/kurs-walut/kurs-bitcoin-pln')
 
 element = browser.find_element_by_xpath(

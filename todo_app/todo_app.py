@@ -53,6 +53,6 @@ btn_rem = Button(root, text='Usuń zadanie', height=3, bd=5, command=del_one).pa
 btn_rem_all = Button(root, text='Usuń wszystkie zadania', height=3, bd=5, command=delete_all).pack()
 listbox = Listbox(root, width=35)
 listbox.pack()
-btn_quit = Button(root, text='Wyjsćie z programu', bg='red', command=quit, bd=5).pack()
+btn_quit = Button(root, text='Wyjsćie z programu', bg='red', command=root.destroy, bd=5).pack()
 root.mainloop()
 
